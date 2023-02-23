@@ -2,10 +2,15 @@
 import collections
 import itertools
 import os
+import re
+import xml.etree.ElementTree as ET
 
 
+global moves
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+
 
 
 def print_hi(name):
@@ -16,10 +21,18 @@ def consume(iterator, n):
     '''Advance the iterator n-steps ahead. If n is none, consume entirely.'''
     collections.deque(itertools.islice(iterator, n), maxlen=0)
 
+removeTagsPattern = re.compile("<.*?>")
+def cleanLine(line):
+    doubleSlashPos = line.find("\\\\")
+    if (doubleSlashPos>-1):
+        line = line[0:doubleSlashPos]
+    #line = removeTagsPattern.sub("",line)
+    return line
 def doOptions(lineIter,xmlfile):
     localIter = itertools.tee(lineIter,2)
     subline = next(localIter[0],None)
     while subline!=None :
+        subline = cleanLine(subline)
         if subline.startswith("  *"):
             subline = subline.replace("*","")
             subline = subline.strip()
@@ -49,6 +62,9 @@ if __name__ == '__main__':
                 line = next(fileIter,None)
                 while line != None:
                     line = line.strip()
+                    #print(line+"\n")
+                    line= cleanLine(line)
+                    #print(line+"\n")
                     if line.startswith("===="):
                         move_name = line[5:len(line)-5]
                     elif line.startswith("*When") or line.startswith("**When"):

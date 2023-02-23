@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <Moves xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="file:/D:/projects/RiderProjects/ApocalypseForge/ApocalypseForge/Moves.xsd">
@@ -70,7 +71,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        Actor takes a light harm. Target may also choose one of the following:\\ <WRAP>
+        Actor takes a light harm. Target may also choose one of the following:
       </Description>
       <Options>
         <Option>
@@ -116,7 +117,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The actor has a limited success. The target is swayed by the actor's words but can chose one of the following:\\ <WRAP>
+        The actor has a limited success. The target is swayed by the actor's words but can chose one of the following:
       </Description>
       <Options>
         <Option>
@@ -285,7 +286,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        Target takes a medium harm. Target may also chose one of the following<br>:\\ <WRAP>
+        Target takes a medium harm. Target may also chose one of the following<br>:
       </Description>
       <Options>
         <Option>
@@ -331,7 +332,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The actor establish their intelligence and takes +1D6 to convince the target of something. But the target can chose one of the following:\\ <WRAP>
+        The actor establish their intelligence and takes +1D6 to convince the target of something. But the target can chose one of the following:
       </Description>
       <Options>
         <Option>
@@ -380,7 +381,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The target is inspired and gets +1D6 to their next move, but the actor must chose one of the following:\\ <WRAP>
+        The target is inspired and gets +1D6 to their next move, but the actor must chose one of the following:
       </Description>
       <Options>
         <Option>
@@ -429,7 +430,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The actor takes +1D6 to your their next attempt to manipulate the target. But the target gets to chose one of the following:\\ <WRAP>
+        The actor takes +1D6 to your their next attempt to manipulate the target. But the target gets to chose one of the following:
       </Description>
       <Options>
       </Options>
@@ -469,7 +470,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The actor has a limited success. The actor retains control of their emotiosn but must choose one of the following:\\ <WRAP>
+        The actor has a limited success. The actor retains control of their emotiosn but must choose one of the following:
       </Description>
       <Options>
       </Options>
@@ -509,7 +510,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The actor has a limited success. The target takes +1D6 to their next attempt to harm or avoid harm but the actor must choose one of the following:\\ <WRAP>
+        The actor has a limited success. The target takes +1D6 to their next attempt to harm or avoid harm but the actor must choose one of the following:
       </Description>
       <Options>
       </Options>
@@ -549,7 +550,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        Actor impresses the target with their effort. Actor takes 1 bond with the target however the target gets to chose one of the following:\\ <WRAP>
+        Actor impresses the target with their effort. Actor takes 1 bond with the target however the target gets to chose one of the following:
       </Description>
       <Options>
       </Options>
@@ -589,7 +590,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The character with the lower popularity score receives +1 popularity. However the character with the higher popularity score gets to chose one of the following:\\ <WRAP>
+        The character with the lower popularity score receives +1 popularity. However the character with the higher popularity score gets to chose one of the following:
       </Description>
       <Options>
       </Options>
@@ -629,7 +630,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The target gets to chose one of the following:\\ <WRAP>
+        The target gets to chose one of the following:
       </Description>
       <Options>
       </Options>
@@ -669,7 +670,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The rumor sticks, but the actor receives some flak. The targets choose one of the following:\\ <WRAP>
+        The rumor sticks, but the actor receives some flak. The targets choose one of the following:
       </Description>
       <Options>
       </Options>
@@ -714,7 +715,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The actor gets to make a stress recovery roll. But the target gets to chose one of the following:\\ <WRAP>
+        The actor gets to make a stress recovery roll. But the target gets to chose one of the following:
       </Description>
       <Options>
       </Options>
@@ -754,7 +755,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        Like full success but the target may chose one of the following additional effects.:\\ <WRAP>
+        Like full success but the target may chose one of the following additional effects.:
       </Description>
       <Options>
       </Options>
@@ -794,7 +795,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The actor takes 1D6 forward to their next attempt to convince or manipulate the target in this scene. However the target gets to chose one of the following:\\ <WRAP>
+        The actor takes 1D6 forward to their next attempt to convince or manipulate the target in this scene. However the target gets to chose one of the following:
       </Description>
       <Options>
       </Options>
