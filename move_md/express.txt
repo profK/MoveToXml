@@ -1,0 +1,11 @@
+
+=====Express=====
+**When you try to express yourself through creation, you roll** ***creativity*****.** 
+
+|Result|Effect|
+|Critical Failure|Not only does the actor fail to communicate but the target gets an incorrect, or even insulting, impression of what you are trying to communicate. You lose one bond with the target. If you have no bonds with them, you lose one bond with anyone the target chooses who the target has a bond with.|
+|Failure|The actor totally fails to communicate. Mark an exp on Talents|
+|Partial Success|The actor has a limited success. Choose 6 words to communicate what you are trying to say.|
+|Full Success|The actor takes +1D6 foward on their next attempt to impress, communicate or manipulate the target|
+|Critical Success|Not only does the actor take +1D6 forward on their next attempt to impress, communicate or manipulate the target, but they also take one bond with the target.|
+{{tag>creativity_move}}

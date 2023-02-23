@@ -1,0 +1,16 @@
+
+=====Harm=====
+**When you try to physically harm someone, you roll** ***athletics*****.**
+
+|Result|Effect|
+|Critical Failure|Impressive counter attack! Actor takes a severe harm.|
+|Failure|Miss and reposte. Actor takes a medium harm. Mark an exp on Talents|
+|Partial Success|Target takes a medium harm. Target may also chose one of the following<br>:\\ <WRAP>
+  * Their guard is up, -1d6 to the next Harm or Avoid Harm roll against this target. 
+  * Weak counter, actor takes a light harm 
+</WRAP> |
+|Full Success|Target takes a medium harm.|
+|Critical Success|Target takes a severe harm.|
+{{tag>athletics_move}}
+
+

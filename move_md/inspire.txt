@@ -1,0 +1,15 @@
+
+=====Inspire=====
+**When you try to inspire someone with your creativity, you roll** ***creativity*****.**
+
+|Result|Effect|
+|Critical Failure|Lame. Actor loses one bond with the target or, if the actor has no bonds with the target, they lose a bond with another person the target chooses that the target has a bond with.|
+|Failure|The target isn't inspired. No effect but mark one experience in Talents.|
+|Partial Success|The target is inspired and gets +1D6 to their next move, but the actor must chose one of the following:\\ <WRAP> 
+  * The inspiration was strenuos, the actor takes 2 stress. 
+  * The actor is drained, they take -1D6 to their next move. 
+  * TBA
+</WRAP> |
+|Full Success|The target is inspired. They get +1D6 to their next move.|
+|Critical Success|The target is filled with determination. They get +1D6 ongoing til the end of the scene.|
+{{tag>creativity_move}}

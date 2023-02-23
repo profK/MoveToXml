@@ -1,0 +1,13 @@
+=====Difficult Communication=====
+Normally communication between people is just assumed, however a variety of circumstances can make it hard to communicate. They can be physical, such as a noisy or noise-deadening environment, they can be cultural when trying to communicate with someone with very different assumptions or language usage, or they can even be emotional when the other person is not in a good mental space to hear what you are trying to say.
+
+**Important:** Because your result may limit how much you may communicate you should announce your attempt to communicate before the roll, but not what is communicated til afterwards.
+
+**When you try to communicate under difficult circumstances, roll communication.** 
+|Result|Effect|
+|Critical Failure|Not only does the actor fail to communicate but the target gets an incorrect, or even insulting, impression of what the actor ius trying to communicate. The actor loses one bond with the target. If the actor has bonds with the target, they lose one bond with anyone the target chooses who the target has a bond with.|
+|Failure|The actor totally fails to communicate. Mark an exp on Skills|
+|Partial Success|The actor has limited success. Choose 6 words to communicate what you are trying to say.|
+|Full Success|The actor can talk in the clear with the other person. They can ask you questions and you can answer them.|
+|Critical Success|Not only the actor talk in the clear like in Full Success but the target also takes +1D6 forward on their next action they take based on your information.|
+{{tag>communication_move}}

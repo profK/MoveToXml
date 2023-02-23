@@ -1,0 +1,14 @@
+=====Shut Someone Down=====
+**When you try to verbally put-down or shut-down another character you roll** ***brains*****.**
+
+|Result|Effect|
+|Critical Failure|The attempt misfires. The actor looks like a fool. The actor takes -1D6 ongoing on any attempt to manipuate, impress with intelligence, intimidate or roll confidence.|
+|Failure|Water off a duck's back. No effect. Mark an exp on Talents|
+|Partial Success|Like full success but the target may chose one of the following additional effects.:\\ <WRAP>
+  - The actor feels guilty, the target takes 1 bond with the actor. 
+  - The target is deeply and visibly embaressed. The target nullifies the -1D6 ongoing and instead take 2 stress . 
+  - The actor loses 1 bond with anyone else present who the target has a bond with.
+</WRAP> |
+|Full Success|The actor put the target in their place. The target takes -1D6 ongoing on any attempt to manipuate, impress with intelligence, intimidate or roll confidence.|
+|Critical Success|In addition to a full success, you the actor gains social leverage with the target and takes 1 bond with them.|
+{{tag>brains_move}}

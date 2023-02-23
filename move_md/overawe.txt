@@ -1,0 +1,13 @@
+=====Over Awe=====
+**When you try to stop someone in their tracks with your creativity, you roll** ***creativity*****.**
+
+|Result|Effect|
+|Critical Failure|Lame. Actor loses one bond with the target or, if the actor has no bonds with the target, they lsoe a bond with another person the target chooses that the target has a bond with.|
+|Failure|The target isn't impressed but provides good feedback. No effect but mark one experience in Talents.|
+|Partial Success|Actor impresses the target with their effort. Actor takes 1 bond with the target however the target gets to chose one of the following:\\ <WRAP>
+  - The actor appreciates the target's good response. The target also gets 1 bond with the actor. 
+  - The actor is embarrassed by the less then stellar reception to their work and takes 2 stress .
+</WRAP>|
+|Full Success|Actor truly impresses the target. Actor takes 1 bond with the target .|
+|Critical Success|The target feels flattered by the actor's attention. In addition to the bond, the actor gains +1D6 to their next attempt to manipulate, inspire or turn the target on.|
+{{tag>creativity_move}}

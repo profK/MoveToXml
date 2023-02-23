@@ -1,0 +1,17 @@
+=====Public Breakup=====
+
+Nothing gets more attention in high school than when a couple fights or dissolves in public. The person initiating the breakup is the actor. The other person is the target,  
+**When you fight or breakup with a romantic partner in public, roll Control.**
+
+|Result|Effect|
+|Critical Failure|Both people recieve -1 to their popularity Anyone starting a rumor based on this move gets +1D6.|
+|Failure|The actor takes -1 to their popularity, but mark an exp for Skills|
+|Partial Success|The target gets to chose one of the following:\\ <WRAP> 
+  - They take 1 bond with the actor 
+  - They take +1 to Moral or Popular at their choice. 
+  - They mark an exp for Skills (displaying control)
+</WRAP> |
+|Full Success|Both target and actor popularity is unchanged. They both actor and target take +1 bond for each other. (Genuinely staying freneds.)|
+|Critical Success|Both target and actor receive +1 to Moral or 1 exp for Skills at their choice, as well a 1 bond with each other, for handling it so well.|
+{{tag>control_move}}
+

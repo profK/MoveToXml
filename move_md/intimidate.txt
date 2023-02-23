@@ -1,0 +1,14 @@
+===Intimidate===
+**When you try to physically intimidate someone, you roll** ***athletics*****.** 
+
+|Result|Effect|
+|Critical Failure|Someone else in the room has clearly established a dominant position. The actor takes -1D6 on going to any attempt to intimidate anyone of anything this scene.|
+|Failure|The target isn't impressed. Mark an exp on Talents|
+|Partial Success|The actor takes +1D6 to your their next attempt to manipulate the target. But the target gets to chose one of the following:\\ <WRAP>
+  - They are annoyed by your aggressiveness. You lose one bond with them or, if you have no bonds with them, with another person they choose that you have a bond with. 
+  - They resist your intimidation, the 1d6 is nullified but they take 2 stress . 
+  - They decide to hide under your cover, they get 1 bond with you.
+</WRAP> |
+|Full Success|The actor takes +1D6 to their next attempt to manipulate the target.|
+|Critical Success|In addition to a full success, the actor makes a lasting impression on the target. The actor take 1 bond with the target.|
+{{tag>athletics_move}}

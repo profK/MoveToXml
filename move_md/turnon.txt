@@ -1,0 +1,14 @@
+=====Turn Someone On=====
+**When you try to turn someone on you roll beauty.**
+
+|Result|Effect|
+|Critical Failure|The actor takes -1d6 forward continuing til the end of the scene to any attempts to convince or manipulate the target.|
+|Failure|The actor takes -1d6 forward to their next attempt to convince or manipulate the target in this scene. Mark an exp on Talents|
+|Partial Success|The actor takes 1D6 forward to their next attempt to convince or manipulate the target in this scene. However the target gets to chose one of the following:\\ <WRAP>
+  - The target takes 1 bond with the actor 
+  - The actor needs to follow through with an appropriate physical action or their 1D6 is nullified 
+  - The target embarrassed, the actor's 1D6 is nullified and the target marks 2 stress 
+</WRAP> |
+|Full Success|The actor takes 1D6 forward to their next attempt to convince or manipulate the target in this scene.|
+|Critical Success|The actor takes +1d6 forward continuing til the end of the scene to any attempts to convince or manipulate the target. The actor and target both get +1 bond with each other.|
+{{tag>beauty_move}}

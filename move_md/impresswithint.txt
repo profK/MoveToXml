@@ -1,0 +1,15 @@
+=====Impress With Intelligence=====
+**When you try to impress someone with your intelligence you roll** ***brains*****.**
+
+|Result|Effect
+|Critical Failure|The actor is clearly not the smartest guy in the room. The actor takes -1D6 on going to any attempt to convince anyone of anything this scene.|
+|Failure|They aren't impressed. Mark an exp on Talents|
+|Partial Success|The actor establish their intelligence and takes +1D6 to convince the target of something. But the target can chose one of the following:\\ <WRAP> 
+  * The target thinks the actor is an ass, the actor loses one bond with the target or, if they have no bonds with the target, loses one bound with the target's choice of another character who the target has a bond with. 
+  * The target resents the actor's intelligence. The actor's +1D6 is nullified and the target takes 2 stress . 
+  * The target is willing to listen and respond favorably but expects something for their support. The target gains 1 bond with the actor.
+</WRAP> |
+|Full Success|The actor takes +1D6 to their next attempt to convince the target of something.|
+|Critical Success|In addition to a full success, you take +1d6 forward to your next action that uses the information discovered.|
+{{tag>brains_move}}
+

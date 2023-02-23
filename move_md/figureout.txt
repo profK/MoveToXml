@@ -1,0 +1,11 @@
+
+=====Figure Something Out=====
+**When you try to figure something out you roll** ***brains*****.**
+
+|Result|Effect|
+|Critical Failure|The actor is completely flummoxed. The actor takes -1D6 to any further attempts to figure this out.|
+|Failure|The actor learns nothing. Mark an exp on Talents|
+|Partial Success|The actor may ask 3 yes or no questions about the situation.|
+|Full Success|The actor may ask any questions they like about the situation|
+|Critical Success|In addition to a full success, the actor takes +1d6 forward to your next action that uses the information discovered.|
+{{tag>brains_move}}

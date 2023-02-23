@@ -1,0 +1,14 @@
+=====Sharing=====
+**When you share something personal and private with another character, roll communication.**
+
+|Result|Effect|
+|Critical Failure|It goes sideways. The actor takes another 2 stress.|
+|Failure|No result. mark an exp on Skills|
+|Partial Success|The actor gets to make a stress recovery roll. But the target gets to chose one of the following:\\ <WRAP>
+  - They take 1 bond with the actor
+  - The actor is at -1d6 to their next attempt to manipulate the target 
+  - The target is a +1d6 for their next action where the current actor is their target
+</WRAP> |
+|Full Success|The actor gets to make a stress recovery roll.|
+|Critical Success|Both target and actor get to make stress recovery rolls.|
+{{tag>communication_move}}

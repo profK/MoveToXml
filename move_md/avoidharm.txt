@@ -1,0 +1,15 @@
+
+=====Avoid Harm===== 
+
+
+**When you try to avoid physical harm, you roll athletics** 
+|Result|Effect|
+|Critical Failure|Actor takes a severe harm.|
+|Failure|Actor takes a medium harm. Mark an exp on Talents|
+|Partial Success|Actor takes a light harm. Target may also choose one of the following:\\ <WRAP>
+  * Reposition. Actor takes -1D6 to their next Harm or Avoid Harm roll 
+  * Weak counter, target takes a light harm
+</WRAP> |
+|Full Success|Actor takes no harm|
+|Critical Success|Defense and reposte.  Actor takes no harm. target takes a medium harm.|
+{{tag>athletics_move}}

@@ -1,0 +1,20 @@
+=====Start A Rumor=====
+Rumors are powerful things. If they take they can effect someone's reputations in profound ways. In order to start a rumor, it must have an anchor. An anchor is something that is true and observed by others. The rumor builds on that anchor to make it into something more that may or may not be true. A rumor is also about a person or persons other then the one starting the rumor. They are considered the *target* of the move.
+
+For instance, Dorie and Dave are seen by multiple people leaving the darkest part of the library and seem friendly. Don rolls to start a rumor that Dorie and Dave have been making out in the library. If successful it will impact both Dorie and Dave's reputations.
+
+If a rumor “sticks” then all targets of the rumor have to adjust one reputation up or down 1 tick in a manner that makes sense for the rumor.
+
+**When you try to create rumor, roll communication.**
+
+|Result|Effect|
+|Critical Failure|Not only does the actor fail to start a rumor, but the attempt backfires on them. Mark one reputation chosen by the targets up or down one tick. The chosen reputation and direction must make sense given the situation.|
+|Failure|The rumor fails to stick. Mark an exp on Skills .|
+|Partial Success|The rumor sticks, but the actor receives some flak. The targets choose one of the following:\\ <WRAP> 
+  - The actor takes 2 stress 
+  - The actor takes -1D6 on all communication rolls til the end of the scene 
+  - The actor loses 1 bond with each of the targets. If you have no bonds with them, you lose 1 bond with anyone they choose that they have a bond with.
+</WRAP>|
+|Full Success|The targets must all adjust one reputation up or down one tick in a way that makes sense.|
+|Critical Success|Not only is the rumor a full success, but it results in social leverage. The actor gets 1 bond with every target.|
+{{tag>communication_move}}

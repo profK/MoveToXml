@@ -1,0 +1,14 @@
+=====Keep Your Head=====
+**When you attempt to resist your emotions and stay calm, roll** ***control*****.**
+
+|Result|Effect|
+|Critical Failure|Not only does the actor fail to impress the target with their leadership, but the target thinks they are a crappy leader. The actor loses one bond with the target. If the actor has bonds with the target, they lose one bond with anyone the target chooses who the target has a bond with.|
+|Failure|The actor loses control of theirr emotions. The actor takes +1D6 to their next action if it is very agressive and makes sense. The actor takes -2D6 their next action if it is not. Mark an exp on Skills|
+|Partial Success|The actor has a limited success. The actor retains control of their emotiosn but must choose one of the following:\\ <WRAP>
+  - Extreme effort. The actor takes 2 stress .
+  - Distraction, the actor takes -1D6 to their next action. 
+  - Someone else, at their option, may spend a bond to support you. The use of the bond must make sense
+</WRAP> |
+|Full Success|The actor has a full success. They keep control of their emotions.|
+|Critical Success|The actor is master of their emotions and acts with supreme calm gaining a +1D6 on their next action.|
+{{tag>control_move}}

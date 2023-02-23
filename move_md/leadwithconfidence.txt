@@ -1,0 +1,14 @@
+=====Lead With Confidence=====
+In order to lead others with confidence they must accept your leadership. Those that don't are unaffected by this move.  
+**When you lead with confidence, roll** ***confidence*****.**
+
+|Result|Effect|
+|Critical Failure|Not only does the actor fail to impress the target with their leadership, but the target thinks they are a crappy leader. The actor loses one bond with the target. If the actor has bonds with the target, they lose one bond with anyone the target chooses who the target has a bond with.|
+|Failure|The actor totally fails to impress the targret with their leadership. Mark an exp on Skills|
+|Partial Success|The actor has a limited success. The target takes +1D6 to their next attempt to harm or avoid harm but the actor must choose one of the following:\\ <WRAP>
+ - Distracted. The actor takes -1D6 to their own next attempt to harm or avoid harm. 
+ - Extreme effort. The actor takes 2 stress .|
+</WRAP> |
+|Full Success|The actor has a full success. The target gets +1D6 on their next attempt to harm or avoid harm.|
+|Critical Success|The target accepts the actor as a leader. The actor takes +1D6 to their next attempt to manipulate or convince the target and gains 1 bond with the target.|
+{{tag>confidence_move}}

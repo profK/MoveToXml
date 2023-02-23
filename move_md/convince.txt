@@ -1,0 +1,15 @@
+===== Convince ===== 
+
+
+*When you attempt to convince someone, roll manipulation.* 
+|Result|Effect|
+|Critical Failure|Not only does the actor fail to convince the target of their point of view, but the targets are now skeptical of anything they say. The actor has -1D6 to any attempts to convince them of anything until they end of the episode|
+|Failure|The actor totally fails to convince the tagret. Mark an exp on Skills|
+|Partial Success|The actor has a limited success. The target is swayed by the actor's words but can chose one of the following:\\ <WRAP> 
+  * Still uncertain. The actor must add to their argument but take +1D6 to all further attempts to convince the target of this one thing. 
+  * The target rejects the actor's argument argument and take 2 points of stress from cognitive dissonance. 
+  * The target will do or believe as you suggest, but expect a favor down the line. The target gets 1 bond with you
+</WRAP>|
+|Full Success|The target totally buys the actor's argument and should act accordingly.|
+|Critical Success|Not only does the target buy the actor's argument, but they look to you for leadership. Take +1 bond with them.|
+{{tag>manipulation_move}}

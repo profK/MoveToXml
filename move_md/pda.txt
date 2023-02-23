@@ -1,0 +1,15 @@
+=====Public Display of Affection=====
+In the 80's, this term was a bit of a euphemism. When you talked about two people making a PDA or “PDAing” it meant displaying evidence that they are a couple. Holding hands, putting arms around each other, kissing and in general displaying a romantic involvement. There is no actor or target in a PDA move. Just two characters.  
+**When you make a PDA with someone, you roll beauty.**
+
+|Result|Effect|
+|Critical Failure|The character with the higher popularity score receives -1 popularity. Anyone starting a rumor based on this move gets +1D6.||
+|Failure|The character with the higher popularity score receives -1 popularity, but get to mark an exp on Talents. The other does not, regardless of who rolled the dice.|
+|Partial Success|The character with the lower popularity score receives +1 popularity. However the character with the higher popularity score gets to chose one of the following:\\ <WRAP>
+  - They take 1 bond with the other person.
+  - They take +1 to either moral or fun at their choice. 
+  - They mark an exp for Skills (displaying confidence)
+</WRAP>|
+|Full Success|The character with the lower popularity score receives +1 popularity.|
+|Critical Success|Both characters receive +1 popularity.|
+{{tag>beauty_move}}
