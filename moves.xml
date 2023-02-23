@@ -1,8 +1,10 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <Moves xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="file:/D:/projects/RiderProjects/ApocalypseForge/ApocalypseForge/Moves.xsd">
   <Move Name="Act With Confidence" Statistic="confidence">
+    <Description>
+    When you attempt to act with confidence, roll confidence
+    </Description>
     <CriticalFailure>
       <Description>
         Not only does the actor fail to impress the target of their point of view, but the target thinks they are a phony. The actor has -1D6 to any attempts to convince or manipulate the target of anything until they end of the episode
@@ -19,7 +21,7 @@
     </Failure>
     <PartialSuccess>
       <Description>
-        The actor has a limited success. The target is swayed by the actor's confidence and the actor the actor takes +1D6 to their next attempt to manipulate or convince the target. However the target may chose one of the following:\\ <WRAP>
+        The actor has a limited success. The target is swayed by the actor's confidence and the actor the actor takes +1D6 to their next attempt to manipulate or convince the target. However the target may chose one of the following:
       </Description>
       <Options>
         <Option>
@@ -49,6 +51,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Avoid Harm" Statistic="athletics">
+    <Description>
+    *When you try to avoid physical harm, you roll athletics*
+    </Description>
     <CriticalFailure>
       <Description>
         Actor takes a severe harm.
@@ -92,6 +97,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name=" Convince " Statistic="manipulation">
+    <Description>
+    When you attempt to convince someone, roll manipulation.
+    </Description>
     <CriticalFailure>
       <Description>
         Not only does the actor fail to convince the target of their point of view, but the targets are now skeptical of anything they say. The actor has -1D6 to any attempts to convince them of anything until they end of the episode
@@ -138,6 +146,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Difficult Communication" Statistic="communication">
+    <Description>
+    *When you try to communicate under difficult circumstances, roll communication.*
+    </Description>
     <CriticalFailure>
       <Description>
         Not only does the actor fail to communicate but the target gets an incorrect, or even insulting, impression of what the actor ius trying to communicate. The actor loses one bond with the target. If the actor has bonds with the target, they lose one bond with anyone the target chooses who the target has a bond with.
@@ -175,6 +186,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Express" Statistic="creativity">
+    <Description>
+    *When you try to express yourself through creation, you roll** ***creativity*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         Not only does the actor fail to communicate but the target gets an incorrect, or even insulting, impression of what you are trying to communicate. You lose one bond with the target. If you have no bonds with them, you lose one bond with anyone the target chooses who the target has a bond with.
@@ -212,6 +226,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Figure Something Out" Statistic="brains">
+    <Description>
+    *When you try to figure something out you roll** ***brains*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         The actor is completely flummoxed. The actor takes -1D6 to any further attempts to figure this out.
@@ -249,6 +266,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Harm" Statistic="athletics">
+    <Description>
+    *When you try to physically harm someone, you roll** ***athletics*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         Impressive counter attack! Actor takes a severe harm.
@@ -292,6 +312,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Impress With Intelligence" Statistic="brains">
+    <Description>
+    *When you try to impress someone with your intelligence you roll** ***brains*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         The actor is clearly not the smartest guy in the room. The actor takes -1D6 on going to any attempt to convince anyone of anything this scene.
@@ -338,6 +361,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Inspire" Statistic="creativity">
+    <Description>
+    *When you try to inspire someone with your creativity, you roll** ***creativity*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         Lame. Actor loses one bond with the target or, if the actor has no bonds with the target, they lose a bond with another person the target chooses that the target has a bond with.
@@ -384,6 +410,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Inspire" Statistic="athletics">
+    <Description>
+    *When you try to physically intimidate someone, you roll** ***athletics*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         Someone else in the room has clearly established a dominant position. The actor takes -1D6 on going to any attempt to intimidate anyone of anything this scene.
@@ -421,6 +450,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Keep Your Head" Statistic="control">
+    <Description>
+    *When you attempt to resist your emotions and stay calm, roll** ***control*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         Not only does the actor fail to impress the target with their leadership, but the target thinks they are a crappy leader. The actor loses one bond with the target. If the actor has bonds with the target, they lose one bond with anyone the target chooses who the target has a bond with.
@@ -458,6 +490,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Lead With Confidence" Statistic="confidence">
+    <Description>
+    *When you lead with confidence, roll** ***confidence*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         Not only does the actor fail to impress the target with their leadership, but the target thinks they are a crappy leader. The actor loses one bond with the target. If the actor has bonds with the target, they lose one bond with anyone the target chooses who the target has a bond with.
@@ -495,6 +530,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Over Awe" Statistic="creativity">
+    <Description>
+    *When you try to stop someone in their tracks with your creativity, you roll** ***creativity*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         Lame. Actor loses one bond with the target or, if the actor has no bonds with the target, they lsoe a bond with another person the target chooses that the target has a bond with.
@@ -532,6 +570,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Public Display of Affection" Statistic="beauty">
+    <Description>
+    *When you make a PDA with someone, you roll beauty.*
+    </Description>
     <CriticalFailure>
       <Description>
         The character with the higher popularity score receives -1 popularity. Anyone starting a rumor based on this move gets +1D6.
@@ -569,6 +610,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Public Breakup" Statistic="Control">
+    <Description>
+    *When you fight or breakup with a romantic partner in public, roll Control.*
+    </Description>
     <CriticalFailure>
       <Description>
         Both people recieve -1 to their popularity Anyone starting a rumor based on this move gets +1D6.
@@ -606,6 +650,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Start A Rumor" Statistic="communication">
+    <Description>
+    *When you try to create rumor, roll communication.*
+    </Description>
     <CriticalFailure>
       <Description>
         Not only does the actor fail to start a rumor, but the attempt backfires on them. Mark one reputation chosen by the targets up or down one tick. The chosen reputation and direction must make sense given the situation.
@@ -643,8 +690,14 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Sense the Supernatural" Statistic="instinct">
+    <Description>
+    *When you check for the presence of supernatural energies, roll instinct*
+    </Description>
   </Move>
   <Move Name="Sharing" Statistic="communication">
+    <Description>
+    *When you share something personal and private with another character, roll communication.*
+    </Description>
     <CriticalFailure>
       <Description>
         It goes sideways. The actor takes another 2 stress.
@@ -682,6 +735,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Shut Someone Down" Statistic="brains">
+    <Description>
+    *When you try to verbally put-down or shut-down another character you roll** ***brains*****.*
+    </Description>
     <CriticalFailure>
       <Description>
         The attempt misfires. The actor looks like a fool. The actor takes -1D6 ongoing on any attempt to manipuate, impress with intelligence, intimidate or roll confidence.
@@ -719,6 +775,9 @@
     </CriticalSuccess>
   </Move>
   <Move Name="Turn Someone On" Statistic="beauty">
+    <Description>
+    *When you try to turn someone on you roll beauty.*
+    </Description>
     <CriticalFailure>
       <Description>
         The actor takes -1d6 forward continuing til the end of the scene to any attempts to convince or manipulate the target.

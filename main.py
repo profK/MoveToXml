@@ -59,6 +59,13 @@ if __name__ == '__main__':
                         xmlfile.write(
                             "  <Move Name=\""+move_name+"\" Statistic=\""+
                             move_stat+"\">\n")
+                        description = line.replace("*","").strip()
+                        xmlfile.write(
+                            "    <Description>\n")
+                        xmlfile.write(
+                            "    "+line+"\n")
+                        xmlfile.write(
+                            "    </Description>\n")
                     elif line.startswith("|") :
                         sections = line.split('|')
                         sections[1] = sections[1].strip()
