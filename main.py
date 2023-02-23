@@ -1,4 +1,5 @@
 # This is a sample Python script.
+import itertools
 import os
 
 
@@ -10,6 +11,22 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
+def doOptions(lineIter,xmlfile):
+    localIter = itertools.tee(lineIter,1)
+    subline = next(localIter[0],None)
+    while subline!=None :
+        if subline.startswith("  *"):
+            subline = subline.replace("*","")
+            subline = subline.strip()
+            xmlfile.write(
+                "        <Option>\n")
+            xmlfile.write(
+                "        "+subline+"\n")
+            xmlfile.write(
+                "        </Option>\n")
+        else :
+            return
+        subline = next(localIter[0], None)
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
@@ -22,7 +39,9 @@ if __name__ == '__main__':
         for filename in os.listdir("move_md"):
             print("Processing "+filename)
             with open("move_md/"+filename,"r",encoding="utf8") as mdfile:
-                for line in mdfile:
+                fileIter = iter(mdfile)
+                line = next(fileIter,None)
+                while line != None:
                     line = line.strip()
                     if line.startswith("===="):
                         move_name = line[5:len(line)-5]
@@ -49,10 +68,12 @@ if __name__ == '__main__':
                                 "      </Description>\n")
                             xmlfile.write(
                                 "      <Options>\n")
+                            doOptions(fileIter,xmlfile)
                             xmlfile.write(
                                 "      </Options>\n")
                             xmlfile.write(
                                 "    </"+sections[1].replace(" ","")+">\n")
+                    line = next(fileIter, None)
                 xmlfile.write("  </Move>\n")
         xmlfile.write("</Moves>\n")
 
