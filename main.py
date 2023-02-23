@@ -1,4 +1,5 @@
 # This is a sample Python script.
+import collections
 import itertools
 import os
 
@@ -11,8 +12,12 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
+def consume(iterator, n):
+    '''Advance the iterator n-steps ahead. If n is none, consume entirely.'''
+    collections.deque(itertools.islice(iterator, n), maxlen=0)
+
 def doOptions(lineIter,xmlfile):
-    localIter = itertools.tee(lineIter,1)
+    localIter = itertools.tee(lineIter,2)
     subline = next(localIter[0],None)
     while subline!=None :
         if subline.startswith("  *"):
@@ -24,8 +29,9 @@ def doOptions(lineIter,xmlfile):
                 "        "+subline+"\n")
             xmlfile.write(
                 "        </Option>\n")
+            consume(localIter[1],1)
         else :
-            return
+            return localIter[1]
         subline = next(localIter[0], None)
 
 # Press the green button in the gutter to run the script.
@@ -68,7 +74,7 @@ if __name__ == '__main__':
                                 "      </Description>\n")
                             xmlfile.write(
                                 "      <Options>\n")
-                            doOptions(fileIter,xmlfile)
+                            fileIter=doOptions(fileIter,xmlfile)
                             xmlfile.write(
                                 "      </Options>\n")
                             xmlfile.write(
